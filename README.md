@@ -27,6 +27,21 @@ Para participar das atividades e contribuir com o repositório, siga as diretriz
 
 ---
 
+
+✨ Contribuidores (Hall of Fame)
+
+Neste projeto, valorizamos cada contribuição! Utilizamos o sistema All Contributors para reconhecer quem ajuda a construir este conhecimento.
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+
+<!-- O Bot All-Contributors irá gerar a lista aqui automaticamente após ser configurado -->
+
+<img src="https://github.com/identicons/prof-bruna.png" width="100px;"/><br /><sub><b>Bruna Patricia</b></sub><br />📖 💡
+
+<img src="https://github.com/identicons/aluno-ads.png" width="100px;"/><br /><sub><b>Aluno ADS</b></sub><br />💻 🎨
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 ## 🏛️ Instituição e Contato
 
 * **Curso:** Tecnologia em Análise e Desenvolvimento de Sistemas (ADS)
